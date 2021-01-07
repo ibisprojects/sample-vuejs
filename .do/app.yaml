@@ -5,5 +5,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-vuejs
+    repo: ibisprojects/sample-vuejs
   name: sample-vuejs
